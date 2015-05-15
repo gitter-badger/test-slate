@@ -1,6 +1,8 @@
 Slate
 ========
 
+[![Join the chat at https://gitter.im/ChristopheBoucaut/test-slate](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ChristopheBoucaut/test-slate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/tripit/slate.svg?branch=master)](https://travis-ci.org/tripit/slate) [![Dependency Status](https://gemnasium.com/tripit/slate.png)](https://gemnasium.com/tripit/slate)
 
 Slate helps you create beautiful API documentation. Think of it as an intelligent, responsive documentation template for your API.
